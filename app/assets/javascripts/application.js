@@ -14,5 +14,4 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require main 
-//= require admin 
 //= require wrong_place_wrong_time
