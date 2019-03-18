@@ -14,6 +14,7 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require main 
+//= require admin
 //= require alert_maker
 //= require hello_world
 //= require wrong_place_wrong_time
